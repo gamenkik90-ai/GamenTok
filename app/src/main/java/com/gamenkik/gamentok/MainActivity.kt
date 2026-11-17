@@ -154,3 +154,4 @@ description: String) {
             fontWeight = FontWeight.Bold) 
         Spacer(Modifier.height(12.dp))
         Text(description, color = Color.White)
+}
